@@ -6,7 +6,7 @@
 cmake --preset debug
 cmake --build build -j
 ./build/asynclog-cloud
-gdb ./build/asynclog-cloud
+gdb ./build/asynclog_cloud
 ```
 
 ## 在 VS Code 里打开
